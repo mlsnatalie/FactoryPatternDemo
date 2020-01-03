@@ -1,13 +1,8 @@
-package com.company;
+package com.company.factory;
 
-import com.company.factory.Shape;
-import com.company.factory.ShapeFactory;
-import com.company.factory.ShapeType;
+public class Factorypattern {
 
-public class FactoryPatternDemo {
-
-    public static void main(String[] args) {
-	// write your code here
+    public Factorypattern() {
         ShapeFactory shapeFactory = new ShapeFactory();
 
         Shape shape1 = shapeFactory.getShape(ShapeType.CIRCLE);
