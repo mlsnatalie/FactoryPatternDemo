@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28a057b4-cc51-4201-8ea2-f7d237dad319" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/factory/Factorypattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/abstractFactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/abstractFactory/AbstractFactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/abstractFactory/Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/abstractFactory/ChoiceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/abstractFactory/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/abstractFactory/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/abstractFactory/ColorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/abstractFactory/ColorType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/abstractFactory/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/abstractFactory/Green.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/abstractFactory/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/abstractFactory/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/abstractFactory/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/abstractFactory/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/abstractFactory/ShapeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/abstractFactory/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/com/company/FactoryPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/com/company/FactoryPatternDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/FactoryPatternDemo.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Enum" />
         <option value="Class" />
       </list>

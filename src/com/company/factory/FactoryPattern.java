@@ -1,8 +1,8 @@
 package com.company.factory;
 
-public class Factorypattern {
+public class FactoryPattern {
 
-    public Factorypattern() {
+    public FactoryPattern() {
         ShapeFactory shapeFactory = new ShapeFactory();
 
         Shape shape1 = shapeFactory.getShape(ShapeType.CIRCLE);
