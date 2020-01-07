@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28a057b4-cc51-4201-8ea2-f7d237dad319" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/singleObject/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/build/Bottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/build/BuilderPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/build/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/build/ChickenBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/build/Coke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/build/ColdDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/build/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/build/Meal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/build/MealBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/build/Packing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/build/Pepsi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/build/VegBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/build/Wrapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
